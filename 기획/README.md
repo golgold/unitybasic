@@ -23,7 +23,8 @@
 | `김민우_게임_FRAME UNDER FIRE_한글문서기획안(제출양식).hwp` | 교수님 제출 양식에 맞춘 기획안 (8쪽) |
 | `발표대본_6분.md` | 슬라이드별 6분 발표 대본 |
 | `포스터_A안.jpg` / `포스터_B안.jpg` | 포스터 시안 (A: NO GUN. ONLY A CAMERA. / B: WHAT YOU SEE IS NOT THE WHOLE TRUTH.) |
-| `로고_FRAME_UNDER_FIRE.png` | 표지·작품 개요용 로고 |
+| `로고_FRAME_UNDER_FIRE_크림.png` / `로고_FRAME_UNDER_FIRE_차콜.png` | 포스터 A안 제목 디자인 로고 (크림: 어두운 배경용·표지 / 차콜: 밝은 배경용·작품 개요), 배경 투명 PNG |
+| `로고_FRAME_UNDER_FIRE.png` | 이전 로고 (주황·빨강 스텐실) |
 
 ## 기획 배경
 - **사회**: 2025년 무력 분쟁 65개로 1946년 집계 이래 최다 (PRIO, 2026). 종군기자 영화 〈시빌 워: 분열의 시대〉 1억 달러 흥행.
