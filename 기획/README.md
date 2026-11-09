@@ -22,8 +22,8 @@
 | `김민우_게임_FRAME UNDER FIRE_한글문서기획안.docx / .pdf / .hwp` | 한글 문서 기획안 (9쪽, 시놉시스·트리트먼트 포함) |
 | `김민우_게임_FRAME UNDER FIRE_한글문서기획안(제출양식).hwp` | 교수님 제출 양식에 맞춘 기획안 (8쪽) |
 | `발표대본_6분.md` | 슬라이드별 6분 발표 대본 |
-| `포스터_A안.jpg` / `포스터_B안.jpg` | 포스터 시안 (A: NO GUN. ONLY A CAMERA. / B: WHAT YOU SEE IS NOT THE WHOLE TRUTH.) |
-| `로고_FRAME_UNDER_FIRE_크림.png` / `로고_FRAME_UNDER_FIRE_차콜.png` | 포스터 A안 제목 디자인 로고, 배경 투명 PNG (크림: PPT 표지·작품 개요·포지셔닝에 사용 / 차콜: 밝은 배경용 예비) |
+| `포스터_A안.jpg` / `포스터_B안.jpg` | 포스터 시안 (A안·메인: 제목 글자마다 카르티아의 장면을 담은 타이포그래피 / B안: 밀착 인화지에서 한 컷에만 동그라미) |
+| `로고_FRAME_UNDER_FIRE_크림.png` / `로고_FRAME_UNDER_FIRE_차콜.png` | 표지 제목 로고(이전 포스터 시안의 제목 글자를 따낸 것), 배경 투명 PNG (크림: PPT 표지·작품 개요·포지셔닝에 사용 / 차콜: 밝은 배경용 예비) |
 | `로고_FRAME_UNDER_FIRE.png` | 이전 로고 (주황·빨강 스텐실) |
 
 ## 기획 배경
