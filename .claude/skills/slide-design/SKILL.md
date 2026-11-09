@@ -8,7 +8,7 @@ description: Rules for building presentation slides that people can actually rea
 ## The one rule
 
 **One point per slide.** If a slide is making two points, it is two slides.
-An extra slide costs $0.00 — splitting is always cheaper than cramming.
+An extra slide costs nothing — splitting is always cheaper than cramming.
 
 Before building any slide, write its single point as one sentence.
 If you can't, you don't know what the slide is for yet. Everything that
