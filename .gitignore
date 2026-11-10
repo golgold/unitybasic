@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# ppt-speech-writer 스킬의 중간 산출물(렌더 이미지·JSON)
+*-speaker-output/work/
