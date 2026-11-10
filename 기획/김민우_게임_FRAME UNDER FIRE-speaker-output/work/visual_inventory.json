@@ -1,0 +1,2174 @@
+{
+  "deck": "기획/김민우_게임_FRAME UNDER FIRE.pptx",
+  "slide_count": 11,
+  "rendered_dir": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides",
+  "slides": [
+    {
+      "slide": 1,
+      "title": "게임 제작 계획서",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-001.png",
+      "needs_direct_visual_inspection": true,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 5074920,
+            "top": 0,
+            "width": 4069080,
+            "height": 6858000
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "게임 제작 계획서"
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "총 대신 카메라를 드는 잠입액션 어드벤처"
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "김민우"
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "추계예술대학교 콘텐츠비즈니스전공 20233304"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "m200110222@gmail.com"
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 676656,
+            "top": 2039038,
+            "width": 3813048,
+            "height": 1691788
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [],
+      "ocr_scope": "image-regions",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 2,
+      "title": "01 작품 개요",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-002.png",
+      "needs_direct_visual_inspection": true,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "01 작품 개요"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "제목"
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "장르"
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "잠입액션 어드벤처"
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "로그라인"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "무기 없는 사진가가 내전의 한복판에서 전쟁의 실상을 찍어 세상에 내보낸다"
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "키워드"
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "잠입, 카메라, 내전, 멀티엔딩"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "카피라인"
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "나의 사진이 진실이 된다"
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "소요예산"
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "90억 원 (배급 · 마케팅 비용 제외)"
+        },
+        {
+          "shape_index": 14,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "예상등급"
+        },
+        {
+          "shape_index": 15,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "청소년이용불가"
+        },
+        {
+          "shape_index": 16,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "가격"
+        },
+        {
+          "shape_index": 17,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "39.99달러 (국내 스팀 42,000원)"
+        },
+        {
+          "shape_index": 18,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "플랫폼"
+        },
+        {
+          "shape_index": 19,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "PC (Steam) · PlayStation · Xbox"
+        },
+        {
+          "shape_index": 20,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "2"
+        },
+        {
+          "shape_index": 21,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 1975104,
+            "top": 1389888,
+            "width": 1937271,
+            "height": 859536
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "01",
+        "작품 개요",
+        "제",
+        "목",
+        "장",
+        "르",
+        "키워",
+        "드",
+        "가",
+        "격",
+        "플랫",
+        "폼"
+      ],
+      "ocr_scope": "image-regions",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 3,
+      "title": "02 기획 배경",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-003.png",
+      "needs_direct_visual_inspection": false,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "02 기획 배경"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "기존 잠입액션"
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "발각 = 전투 개시"
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "발각 시 총격전으로 해결\n쉽게 풀리는 긴장"
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "예) 메탈기어 솔리드 V · 스플린터 셀"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "vs"
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "약자의 생존 게임"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "발각 = 생존 위기"
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "Outlast 1편 640만 장\nThis War of Mine 900만 장+"
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "→ 약자의 처지를 체험시켜 성공"
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "시장 배경"
+        },
+        {
+          "shape_index": 14,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "사회적 배경"
+        },
+        {
+          "shape_index": 15,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "65개"
+        },
+        {
+          "shape_index": 16,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "2025년 무력 분쟁 수"
+        },
+        {
+          "shape_index": 17,
+          "name": null,
+          "kind": "LINE (9)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 18,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "다시 가까워진 전쟁, 커지는 관심\n종군기자 영화 〈시빌 워: 분열의 시대〉 1억 달러 흥행\n분쟁 수 1946년 집계 이래 최다 · 출처: PRIO(2026), Box Office Mojo"
+        },
+        {
+          "shape_index": 19,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "3"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "02",
+        "기획 배경",
+        "→ 약자의 처지를",
+        "체험시켜",
+        "성공"
+      ],
+      "ocr_scope": "image-regions (no picture regions)",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 4,
+      "title": "03 기획 의도",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-004.png",
+      "needs_direct_visual_inspection": true,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "03 기획 의도"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 996696,
+            "top": 2286000,
+            "width": 329184,
+            "height": 329184
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "싸우지 않는 잠입"
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "돌 던지기 등으로 시선 돌리기\n죽일 수 없음, 밀치고 도망칠 뿐\n붙잡히면 체포 · 필름 압수 · 처형"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 996696,
+            "top": 3840480,
+            "width": 329184,
+            "height": 329184
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "자유로운 전장"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "지역을 골라 들어가는 구조\n지역 안은 오픈월드처럼 자유"
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 996696,
+            "top": 5394960,
+            "width": 329184,
+            "height": 329184
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 14,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "사진이 바꾸는 결말"
+        },
+        {
+          "shape_index": 15,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 16,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "한정된 필름 → 무엇을 찍을지 선택\n공개한 사진 → 여론 · 전황 변화\n생사 × 여론 → 다양한 결말"
+        },
+        {
+          "shape_index": 17,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 18,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 19,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "4"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "03",
+        "기획 의도"
+      ],
+      "ocr_scope": "image-regions",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 5,
+      "title": "04 인물관계도",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-005.png",
+      "needs_direct_visual_inspection": true,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "04 인물관계도"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "공화국 정부 측"
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "반란군 측"
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 740664,
+            "top": 2263140,
+            "width": 786384,
+            "height": 1051560
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "엘레나 바르트"
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "공화국 공보국장"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "기자증으로\n보도 통제 · 감시"
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 740664,
+            "top": 4722876,
+            "width": 786384,
+            "height": 1051560
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "마르타 셀린"
+        },
+        {
+          "shape_index": 14,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "선배 사진기자"
+        },
+        {
+          "shape_index": 15,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "전장의 규칙 전수\nCH.2에서 사망"
+        },
+        {
+          "shape_index": 16,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 17,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 6364224,
+            "top": 2263140,
+            "width": 786384,
+            "height": 1051560
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 18,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "빅토르 살란"
+        },
+        {
+          "shape_index": 19,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "반란군 총사령관"
+        },
+        {
+          "shape_index": 20,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "주인공의 사진을\n선전에 이용"
+        },
+        {
+          "shape_index": 21,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 22,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 6364224,
+            "top": 4722876,
+            "width": 786384,
+            "height": 1051560
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 23,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "야나 데린"
+        },
+        {
+          "shape_index": 24,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "가이드 · 통역가"
+        },
+        {
+          "shape_index": 25,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "신뢰가 곧\n주인공의 생사"
+        },
+        {
+          "shape_index": 26,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 27,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "정부 협력"
+        },
+        {
+          "shape_index": 28,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 29,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "오빠 다닐 · 반란군"
+        },
+        {
+          "shape_index": 30,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 31,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 3831336,
+            "top": 2432304,
+            "width": 1481328,
+            "height": 1828800
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 32,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 33,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 34,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 35,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 36,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 37,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 38,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 39,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 40,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "주인공"
+        },
+        {
+          "shape_index": 41,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "한재훈"
+        },
+        {
+          "shape_index": 42,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "풍경 사진가\n→ 종군 기자"
+        },
+        {
+          "shape_index": 43,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 44,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "기자증·감시"
+        },
+        {
+          "shape_index": 45,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 46,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "취재 선배"
+        },
+        {
+          "shape_index": 47,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 48,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "선전 이용"
+        },
+        {
+          "shape_index": 49,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 50,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "동행·통역"
+        },
+        {
+          "shape_index": 51,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 52,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "5"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "04",
+        "인물관계도"
+      ],
+      "ocr_scope": "image-regions",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 6,
+      "title": "05 게임 전개도",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-006.png",
+      "needs_direct_visual_inspection": false,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "05 게임 전개도"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "2003년 7월 · 내전 중인 카르티아 · 시장 폭격에 휘말린 풍경 사진가의 3주"
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "PROLOGUE"
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "휘말림"
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "시장 폭격 · 첫 사진"
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "CH.1"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "세계의 시선"
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "몰래 송고 · 세계의 주목"
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "CH.2"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "취재"
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "붉은 신호탄 · 마르타의 죽음"
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "CH.3"
+        },
+        {
+          "shape_index": 14,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "잠입"
+        },
+        {
+          "shape_index": 15,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "두 본부 중 한 곳 잠입"
+        },
+        {
+          "shape_index": 16,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "CH.4"
+        },
+        {
+          "shape_index": 17,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "추적"
+        },
+        {
+          "shape_index": 18,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "두 진영의 추격 · 다닐의 기록"
+        },
+        {
+          "shape_index": 19,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "CH.5"
+        },
+        {
+          "shape_index": 20,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "반출"
+        },
+        {
+          "shape_index": 21,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "송신소 잠입 · 국가 탈출"
+        },
+        {
+          "shape_index": 22,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "ENDING"
+        },
+        {
+          "shape_index": 23,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "결말"
+        },
+        {
+          "shape_index": 24,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "생사 × 여론"
+        },
+        {
+          "shape_index": 25,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "CH.3 — 한 곳만 잠입한다"
+        },
+        {
+          "shape_index": 26,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 27,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 28,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "A"
+        },
+        {
+          "shape_index": 29,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "공화국 정부 본부"
+        },
+        {
+          "shape_index": 30,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "민병대 처형 명단\n정부 묵인 문서"
+        },
+        {
+          "shape_index": 31,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 32,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 33,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "B"
+        },
+        {
+          "shape_index": 34,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "반란군 전선 사령부"
+        },
+        {
+          "shape_index": 35,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "시장 포격 명령서\n작전 지도"
+        },
+        {
+          "shape_index": 36,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 37,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 38,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 39,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 40,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 41,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "6"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "05",
+        "게임 전개도"
+      ],
+      "ocr_scope": "image-regions (no picture regions)",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 7,
+      "title": "06 SWOT 분석",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-007.png",
+      "needs_direct_visual_inspection": false,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "06 SWOT 분석"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "7"
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null,
+          "text": "S"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "강점"
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "핵심 역량 · 경쟁작에 없는 재미\n총 없이 셔터 한 번에 목숨을 거는 잠입\n기술·시스템 · 사진이 바꾸는 결말\n공개한 사진에 따라 전황·결말이 바뀜"
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null,
+          "text": "W"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "약점"
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "자원·예산 · 신규 IP의 제한된 예산\n90억으로 실사급 그래픽 구현 부담\n개발 효율 · 분기 콘텐츠 제작 부담\n다양한 상황에 맞는 엔딩을 모두 제작"
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null,
+          "text": "O"
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "기회요인"
+        },
+        {
+          "shape_index": 14,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "전쟁 소외계층 게임에 대한 시장 흥미\nThis War of Mine 누적 900만 장+\n신기술 · 실사급 그래픽 엔진 대중화\n언리얼 엔진 5로 중소 팀도 대작급 그래픽"
+        },
+        {
+          "shape_index": 15,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null,
+          "text": "T"
+        },
+        {
+          "shape_index": 16,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "위협요인"
+        },
+        {
+          "shape_index": 17,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "경쟁 심화 · 신작 홍수 속 노출 경쟁\n스팀 연 1만 개+ 신작 — 신규 IP 불리\n규제 강화 · 전쟁 묘사 심의 리스크\n처형·폭격 장면 → 국가별 등급·판매 제한"
+        },
+        {
+          "shape_index": 18,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 19,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "핵심 전략"
+        },
+        {
+          "shape_index": 20,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 21,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "‘총 없는 잠입’을 데모로 먼저 체험시켜, 신작 홍수 속에서 살아남기"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "06",
+        "SWOT 분석"
+      ],
+      "ocr_scope": "image-regions (no picture regions)",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 8,
+      "title": "07 유사작 분석",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-008.png",
+      "needs_direct_visual_inspection": true,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "07 유사작 분석"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "TABLE (19)",
+          "bbox_emu": {
+            "left": 548640,
+            "top": 1463040,
+            "width": 8220456,
+            "height": 4151376
+          },
+          "tables": [
+            [
+              [
+                "게임",
+                "제작비",
+                "판매 성과",
+                "분석",
+                "결과"
+              ],
+              [
+                "Outlast\n2013\nRed Barrels",
+                "약 13억 원",
+                "1편 640만 장",
+                "장점  싸울 수 없는 무력감이 주는 공포\n단점  선택·분기 없는 일직선 진행",
+                "성공\n후속작 2편"
+              ],
+              [
+                "1979 Revolution:\nBlack Friday\n2016\niNK Stories",
+                "비공개",
+                "50만 다운로드",
+                "장점  실제 보도사진과 비교하는 촬영\n단점  대화·QTE 위주로 긴장감 부족",
+                "부분 성공\n평단 호평\n판매 소규모"
+              ],
+              [
+                "Headliner:\nNoviNews\n2018\nUnbound",
+                "비공개",
+                "비공개",
+                "장점  기사 선택에 따라 도시가 변함\n단점  같은 하루 반복, 위험·긴장 없음",
+                "부분 성공\n수상 다수\n판매 소규모"
+              ],
+              [
+                "This War of Mine\n2014\n11 bit studios",
+                "약 7억 원",
+                "900만 장+",
+                "장점  민간인 시점의 생존과 도덕적 선택\n단점  낮·밤 루프가 후반엔 단조로움",
+                "성공\n제작비 대비\n매출 약 75배"
+              ]
+            ]
+          ]
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "8"
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "성공 요인"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "약자로 살아남는 긴장 극대화"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "07",
+        "유사작 분석",
+        "게임",
+        "제작비",
+        "판매 성과",
+        "분석",
+        "결과",
+        "Outlast",
+        "2013",
+        "Red Barrels",
+        "약 13억 원",
+        "1편 640만 장",
+        "장점",
+        "싸울 수 없는 무력감이 주는 공포",
+        "단점",
+        "선택·분기 없는 일직선 진행",
+        "성공",
+        "후속작 2편",
+        "1979 Revolution:",
+        "Black Friday",
+        "2016",
+        "iNK Stories",
+        "비공개",
+        "50만 다운로드",
+        "장점",
+        "실제 보도사진과 비교하는 촬영",
+        "단점",
+        "대화·QTE 위주로 긴장감 부족",
+        "부분 성공",
+        "평단 호평",
+        "판매 소규모",
+        "Headliner:",
+        "NoviNews",
+        "2018",
+        "Unbound",
+        "비공개",
+        "비공개",
+        "장점",
+        "기사 선택에 따라 도시가 변함",
+        "단점",
+        "같은 하루 반복, 위험·긴장 없음",
+        "부분 성공",
+        "수상 다수",
+        "판매 소규모",
+        "This War of Mine",
+        "2014",
+        "11 bit studios",
+        "약 7억 원",
+        "900만 장+",
+        "장점",
+        "민간인 시점의 생존과 도덕적 선택",
+        "단점",
+        "낮·밤 루프가 후반엔 단조로움",
+        "성공",
+        "제작비 대비",
+        "매출 약 75배"
+      ],
+      "ocr_scope": "image-regions (no picture regions)",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 9,
+      "title": "08 포지셔닝",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-009.png",
+      "needs_direct_visual_inspection": true,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "08 포지셔닝"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "CHART (3)",
+          "bbox_emu": {
+            "left": 548640,
+            "top": 1463040,
+            "width": 8046720,
+            "height": 4846320
+          },
+          "chart": {
+            "title": "",
+            "categories": [],
+            "series": [
+              {
+                "name": "성공",
+                "values": [
+                  18.5,
+                  17.0,
+                  null,
+                  null,
+                  null
+                ]
+              },
+              {
+                "name": "부분 성공",
+                "values": [
+                  null,
+                  null,
+                  0.0,
+                  0.0,
+                  null
+                ]
+              },
+              {
+                "name": "본작 (목표)",
+                "values": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  15.0
+                ]
+              }
+            ],
+            "axes": [
+              {
+                "axis": "category_axis",
+                "title": ""
+              },
+              {
+                "axis": "value_axis",
+                "title": ""
+              }
+            ],
+            "legend": false
+          }
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "↑"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "→"
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "9"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "생존\n잠입 긴장"
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 6272686,
+            "top": 2681935,
+            "width": 948026,
+            "height": 420624
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "Headliner"
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "1979 Revolution"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "08",
+        "포지셔닝"
+      ],
+      "ocr_scope": "image-regions",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 10,
+      "title": "09 마케팅 계획",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-010.png",
+      "needs_direct_visual_inspection": false,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "09 마케팅 계획"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "총제작비"
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "110억 원"
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "순제작비 90억 원 + 마케팅 20억 원"
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "손익분기점"
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "41만 장"
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "39.99달러 기준\n장당 실수령 약 2.68만 원"
+        },
+        {
+          "shape_index": 8,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 9,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "목표 판매량"
+        },
+        {
+          "shape_index": 10,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "70만 장"
+        },
+        {
+          "shape_index": 11,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "출시 후 2년 · 전 플랫폼 누적"
+        },
+        {
+          "shape_index": 12,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "실행방안"
+        },
+        {
+          "shape_index": 13,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "광고"
+        },
+        {
+          "shape_index": 14,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "시네마틱 트레일러"
+        },
+        {
+          "shape_index": 15,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "검열된 사진 캠페인"
+        },
+        {
+          "shape_index": 16,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "유튜브 · SNS 타깃 광고"
+        },
+        {
+          "shape_index": 17,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "홍보"
+        },
+        {
+          "shape_index": 18,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "게임스컴 · 지스타 시연"
+        },
+        {
+          "shape_index": 19,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "글로벌 PR 해외 매체 리뷰"
+        },
+        {
+          "shape_index": 20,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "출시 전 체험 팝업"
+        },
+        {
+          "shape_index": 21,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "프로모션"
+        },
+        {
+          "shape_index": 22,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "스팀 찜하기 이벤트"
+        },
+        {
+          "shape_index": 23,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "‘무기 없는 잠입’ 데모"
+        },
+        {
+          "shape_index": 24,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "스트리머 송고 투표 방송"
+        },
+        {
+          "shape_index": 25,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 26,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 27,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "18개월 전"
+        },
+        {
+          "shape_index": 28,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "티저 공개"
+        },
+        {
+          "shape_index": 29,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 30,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "12개월 전"
+        },
+        {
+          "shape_index": 31,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "게임쇼 시연"
+        },
+        {
+          "shape_index": 32,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 33,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "6개월 전"
+        },
+        {
+          "shape_index": 34,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "데모 공개"
+        },
+        {
+          "shape_index": 35,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 36,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "출시"
+        },
+        {
+          "shape_index": 37,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "첫 주 5만 장"
+        },
+        {
+          "shape_index": 38,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 39,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "출시 후 2년"
+        },
+        {
+          "shape_index": 40,
+          "name": null,
+          "kind": "TEXT_BOX (17)",
+          "bbox_emu": null,
+          "text": "누적 70만 장"
+        },
+        {
+          "shape_index": 41,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 42,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 43,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "10"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "09",
+        "마케팅 계획",
+        "시네마틱",
+        "트레일러"
+      ],
+      "ocr_scope": "image-regions (no picture regions)",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    },
+    {
+      "slide": 11,
+      "title": "10 포스터 시안",
+      "rendered_image": "/home/user/unitybasic/기획/김민우_게임_FRAME UNDER FIRE-speaker-output/work/rendered_slides/slide-011.png",
+      "needs_direct_visual_inspection": true,
+      "structured_elements": [
+        {
+          "shape_index": 1,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "10 포스터 시안"
+        },
+        {
+          "shape_index": 2,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 3,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 1321308,
+            "top": 1508760,
+            "width": 2816352,
+            "height": 4224528
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 4,
+          "name": null,
+          "kind": "AUTO_SHAPE (1)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 5,
+          "name": null,
+          "kind": "PICTURE (13)",
+          "bbox_emu": {
+            "left": 5006340,
+            "top": 1508760,
+            "width": 2816352,
+            "height": 4224528
+          },
+          "visual_note": "Picture or media object. Inspect rendered slide and OCR if text is embedded."
+        },
+        {
+          "shape_index": 6,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null
+        },
+        {
+          "shape_index": 7,
+          "name": null,
+          "kind": "PLACEHOLDER (14)",
+          "bbox_emu": null,
+          "text": "11"
+        }
+      ],
+      "raw_ooxml_text_not_in_shapes": [
+        "10",
+        "포스터 시안"
+      ],
+      "ocr_scope": "image-regions",
+      "ocr_text": "",
+      "ocr_regions": [],
+      "coverage_checklist": [
+        "title and text boxes",
+        "tables and important cells",
+        "chart axes, legend, labels, series, visible values",
+        "images, screenshots, diagrams, SmartArt, icons, and annotations",
+        "citations, footnotes, and small labels"
+      ]
+    }
+  ]
+}
