@@ -106,4 +106,4 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 # ppt-speech-writer 스킬의 중간 산출물(렌더 이미지·JSON)
-*-speaker-output/work/
+**/*-speaker-output/work/
